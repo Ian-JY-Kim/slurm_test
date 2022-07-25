@@ -3,7 +3,7 @@
 #SBATCH --job-name=example
 
 # 16 jobs will run in this array at the same time
-#SBATCH --array=1-16
+#SBATCH --array=1-5
 
 # run for five minutes
 #              d-hh:mm:ss
