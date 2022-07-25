@@ -1,3 +1,5 @@
+#! /usr/bin/python
+
 import time
 
 print('start at ' + time.strftime('%H:%M:%S'))
